@@ -1,0 +1,12 @@
+path: C:\ilham files\codes\viskom\img-segmentation
+train: yolo/images
+val: yolo/images
+
+#nc: 5
+#names: ['chair','painting','plant','sofa','table']
+names:
+  0: Chair
+  1: Painting
+  2: Plant
+  3: Sofa
+  4: Table
